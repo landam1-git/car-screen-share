@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Car Screen Share</string>
+    <string name="touch_service_description">Lets you tap and scroll on your phone from the car display while Car Screen Share is mirroring. It only performs the taps and swipes you make on the car screen and does not read your screen content.</string>
+</resources>
